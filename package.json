@@ -35,6 +35,6 @@
     "tailwindcss": "^3.2.2"
   },
   "dependencies": {
-    "@11ty/eleventy-upgrade-help": "^1.0.1"
+    "@11ty/eleventy-upgrade-help": "^2.0.2"
   }
 }
